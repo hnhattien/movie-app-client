@@ -7,7 +7,11 @@ export default function TopBar({ content }) {
   return (
     <>
       <p className="relative bg-slate-900 text-white py-2 px-4 font-semibold">
-        More than 11 thousand movies are collected by me from the Internet.
+        More than 11 thousand movies and are collected by me from the Internet
+        just within two days.
+        <a target="_blank" href="https://github.com/hnhattien">
+          hnhattien
+        </a>
       </p>
     </>
   );
