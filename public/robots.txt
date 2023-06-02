@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://MovieSite.org
+
+# Sitemaps
+Sitemap: https://MovieSite.org/sitemap.xml
