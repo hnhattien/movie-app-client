@@ -429,6 +429,5 @@ export const getServerSideProps = async (ctx) => {
       ...(await serverSideTranslations(ctx.locale, ["common"])),
       locale: ctx.locale,
     },
-    revalidate: 300,
   };
 };
