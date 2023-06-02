@@ -33,3 +33,4 @@ jobs:
       - name: Setup Client
         run: |
           npm install
+          npm run build
